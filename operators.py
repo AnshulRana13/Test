@@ -3,7 +3,7 @@ b = 3
 
 print(a+b)   #15
 print(a-b)   #9
-print(a*b/d)   #error D is not defined
+print(a*b)   #36
 print(a/b)   #4.0
 print(a//b)  #4 integer division, roundeddown towards minus infinity
 print(a%b)   # 0 modulo: the remainder after integer division
