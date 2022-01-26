@@ -10,3 +10,4 @@ adding another line to stash with better name
 
 
 adding another line for master
+adding a line for rebase
