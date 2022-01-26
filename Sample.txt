@@ -5,3 +5,5 @@ lasdkasl
 adding new line 
 adding one more line 
 adding comment from the master
+adding line for stashing 
+adding another line to stash with better name 
