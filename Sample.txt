@@ -1,0 +1,14 @@
+This is just a sample file
+This is my code 
+ajshdas
+lasdkasl
+adding new line 
+adding one more line 
+adding comment from the master
+adding line for stashing 
+adding another line to stash with better name 
+adding a line for rebase
+adding another line for rebase
+adding another line for master
+
+
